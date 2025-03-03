@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-github.io/static/css/main.41135f23.css",
+    "main.js": "/portfolio-github.io/static/js/main.7ff780ab.js",
+    "static/media/MEADOWPINE.png": "/portfolio-github.io/static/media/MEADOWPINE.095f40a98a70d5e5d424.png",
+    "static/media/catchethomes.png": "/portfolio-github.io/static/media/catchethomes.c4d0851e931d876357ee.png",
+    "static/media/23049WOODBINE.png": "/portfolio-github.io/static/media/23049WOODBINE.b369d19ddf6d03e5db53.png",
+    "static/media/DRIFTWOOD.png": "/portfolio-github.io/static/media/DRIFTWOOD.9171c28a00b67f8495c0.png",
+    "static/media/31SANDRD.png": "/portfolio-github.io/static/media/31SANDRD.f3d195f4ae1ad8729e1b.png",
+    "static/media/shaws.png": "/portfolio-github.io/static/media/shaws.e0ace8f35a6bdc8da9b4.png",
+    "static/media/15021WOODBINE.png": "/portfolio-github.io/static/media/15021WOODBINE.c2d9680c3705d3d946c3.png",
+    "static/media/22CHURCHSTN.png": "/portfolio-github.io/static/media/22CHURCHSTN.5e4e20db9da52097487a.png",
+    "static/media/WILLOWVALLEYOSS.png": "/portfolio-github.io/static/media/WILLOWVALLEYOSS.27f80436acb2267718c3.png",
+    "static/media/5200COUNTRYSIDE.png": "/portfolio-github.io/static/media/5200COUNTRYSIDE.394acd66db8fe358b7b7.png",
+    "static/media/420OLDTOWERHILL.png": "/portfolio-github.io/static/media/420OLDTOWERHILL.961716d767118b0aafd8.png",
+    "static/media/HURONIADD.png": "/portfolio-github.io/static/media/HURONIADD.f6e4db8c29d0d1612bc4.png",
+    "static/media/civil.pdf": "/portfolio-github.io/static/media/civil.caabce03aa1c8b4c8324.pdf",
+    "static/media/tech.pdf": "/portfolio-github.io/static/media/tech.caabce03aa1c8b4c8324.pdf",
+    "static/media/trendz.png": "/portfolio-github.io/static/media/trendz.d5ff869c6541b11596d2.png",
+    "static/media/sidu.png": "/portfolio-github.io/static/media/sidu.b582f8cf11853c060cc3.png",
+    "static/media/trendz2.png": "/portfolio-github.io/static/media/trendz2.6ef34f4f249db6569d97.png",
+    "static/media/tictactoe.png": "/portfolio-github.io/static/media/tictactoe.93ba7cee0de6aad842f2.png",
+    "static/media/github.svg": "/portfolio-github.io/static/media/github.f28819b3a7a4f14953df8333ab2f9f63.svg",
+    "static/media/email.svg": "/portfolio-github.io/static/media/email.1a77c269e6536cfd2a64fea0b5227071.svg",
+    "static/media/linkedin.svg": "/portfolio-github.io/static/media/linkedin.224eaf5e574c7c066780597a2418feb8.svg",
+    "static/media/techImage.svg": "/portfolio-github.io/static/media/techImage.e0b3898b3670d326f8b25ab7a932398b.svg",
+    "index.html": "/portfolio-github.io/index.html",
+    "static/media/downloadImage.svg": "/portfolio-github.io/static/media/downloadImage.7500e4750a372b2fa9c1b208de516c71.svg",
+    "main.41135f23.css.map": "/portfolio-github.io/static/css/main.41135f23.css.map",
+    "main.7ff780ab.js.map": "/portfolio-github.io/static/js/main.7ff780ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41135f23.css",
+    "static/js/main.7ff780ab.js"
+  ]
+}
