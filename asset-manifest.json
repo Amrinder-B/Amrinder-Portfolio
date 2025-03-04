@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://amrinder-b.github.io/Amrinder-Portfolio/static/css/main.cfc8cd42.css",
-    "main.js": "https://amrinder-b.github.io/Amrinder-Portfolio/static/js/main.dd1c1c67.js",
+    "main.css": "https://amrinder-b.github.io/Amrinder-Portfolio/static/css/main.b00b362a.css",
+    "main.js": "https://amrinder-b.github.io/Amrinder-Portfolio/static/js/main.86baea64.js",
     "static/media/MEADOWPINE.png": "https://amrinder-b.github.io/Amrinder-Portfolio/static/media/MEADOWPINE.095f40a98a70d5e5d424.png",
     "static/media/catchethomes.png": "https://amrinder-b.github.io/Amrinder-Portfolio/static/media/catchethomes.c4d0851e931d876357ee.png",
     "static/media/23049WOODBINE.png": "https://amrinder-b.github.io/Amrinder-Portfolio/static/media/23049WOODBINE.b369d19ddf6d03e5db53.png",
@@ -27,11 +27,11 @@
     "index.html": "https://amrinder-b.github.io/Amrinder-Portfolio/index.html",
     "static/media/techImage.svg": "https://amrinder-b.github.io/Amrinder-Portfolio/static/media/techImage.e0b3898b3670d326f8b25ab7a932398b.svg",
     "static/media/downloadImage.svg": "https://amrinder-b.github.io/Amrinder-Portfolio/static/media/downloadImage.7500e4750a372b2fa9c1b208de516c71.svg",
-    "main.cfc8cd42.css.map": "https://amrinder-b.github.io/Amrinder-Portfolio/static/css/main.cfc8cd42.css.map",
-    "main.dd1c1c67.js.map": "https://amrinder-b.github.io/Amrinder-Portfolio/static/js/main.dd1c1c67.js.map"
+    "main.b00b362a.css.map": "https://amrinder-b.github.io/Amrinder-Portfolio/static/css/main.b00b362a.css.map",
+    "main.86baea64.js.map": "https://amrinder-b.github.io/Amrinder-Portfolio/static/js/main.86baea64.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfc8cd42.css",
-    "static/js/main.dd1c1c67.js"
+    "static/css/main.b00b362a.css",
+    "static/js/main.86baea64.js"
   ]
 }
