@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://amrinder-b.github.io/portfolio-github.io/static/css/main.9ae7b2bd.css",
-    "main.js": "https://amrinder-b.github.io/portfolio-github.io/static/js/main.b0133f54.js",
+    "main.css": "https://amrinder-b.github.io/portfolio-github.io/static/css/main.5c3c5188.css",
+    "main.js": "https://amrinder-b.github.io/portfolio-github.io/static/js/main.12b03945.js",
     "static/media/MEADOWPINE.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/MEADOWPINE.095f40a98a70d5e5d424.png",
     "static/media/catchethomes.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/catchethomes.c4d0851e931d876357ee.png",
     "static/media/23049WOODBINE.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/23049WOODBINE.b369d19ddf6d03e5db53.png",
@@ -14,6 +14,7 @@
     "static/media/5200COUNTRYSIDE.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/5200COUNTRYSIDE.394acd66db8fe358b7b7.png",
     "static/media/420OLDTOWERHILL.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/420OLDTOWERHILL.961716d767118b0aafd8.png",
     "static/media/HURONIADD.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/HURONIADD.f6e4db8c29d0d1612bc4.png",
+    "static/media/me.JPG": "https://amrinder-b.github.io/portfolio-github.io/static/media/me.8c0c975423c8f140ef7e.JPG",
     "static/media/civil.pdf": "https://amrinder-b.github.io/portfolio-github.io/static/media/civil.caabce03aa1c8b4c8324.pdf",
     "static/media/tech.pdf": "https://amrinder-b.github.io/portfolio-github.io/static/media/tech.caabce03aa1c8b4c8324.pdf",
     "static/media/trendz.png": "https://amrinder-b.github.io/portfolio-github.io/static/media/trendz.d5ff869c6541b11596d2.png",
@@ -26,11 +27,11 @@
     "index.html": "https://amrinder-b.github.io/portfolio-github.io/index.html",
     "static/media/techImage.svg": "https://amrinder-b.github.io/portfolio-github.io/static/media/techImage.e0b3898b3670d326f8b25ab7a932398b.svg",
     "static/media/downloadImage.svg": "https://amrinder-b.github.io/portfolio-github.io/static/media/downloadImage.7500e4750a372b2fa9c1b208de516c71.svg",
-    "main.9ae7b2bd.css.map": "https://amrinder-b.github.io/portfolio-github.io/static/css/main.9ae7b2bd.css.map",
-    "main.b0133f54.js.map": "https://amrinder-b.github.io/portfolio-github.io/static/js/main.b0133f54.js.map"
+    "main.5c3c5188.css.map": "https://amrinder-b.github.io/portfolio-github.io/static/css/main.5c3c5188.css.map",
+    "main.12b03945.js.map": "https://amrinder-b.github.io/portfolio-github.io/static/js/main.12b03945.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae7b2bd.css",
-    "static/js/main.b0133f54.js"
+    "static/css/main.5c3c5188.css",
+    "static/js/main.12b03945.js"
   ]
 }
